@@ -41,7 +41,7 @@ fn main() {
             }
         }
         if number_of_guesses > 9 {
-            println!("You lose!");
+            println!("You lose! The correct number was {}.", secret_number );
             break;
         }
     }
