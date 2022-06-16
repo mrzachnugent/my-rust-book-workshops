@@ -8,4 +8,5 @@ There are a total of 20 Chapters.
 4. Understanding Ownership ✅
 5. Using Structs to Structure Related Data ✅
 6. Enums and Pattern Matching ✅
-7. Managinig Growing Projects with Packages, Crates, and Modules
+7. Managinig Growing Projects with Packages, Crates, and Modules ✅
+8. Common Collections
