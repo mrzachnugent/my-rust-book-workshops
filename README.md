@@ -10,4 +10,5 @@ There are a total of 20 Chapters.
 6. Enums and Pattern Matching ✅
 7. Managinig Growing Projects with Packages, Crates, and Modules ✅
 8. Common Collections ✅
-9. Error Handling
+9. Error Handling ✅
+10. Generic Types, Traits, and Lifetimes
