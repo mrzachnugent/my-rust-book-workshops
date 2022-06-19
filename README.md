@@ -14,7 +14,7 @@ There are a total of 20 Chapters.
 10. Generic Types, Traits, and Lifetimes ✅
 11. Writing Automated Tests ✅
 12. An I/O Project: Building a Command Line Program ✅
-13. Functional Language Features: Iterators and Closures
+13. Functional Language Features: Iterators and Closures ✅
 14. More about Cargo and Crates.io
 15. Smart Pointers
 16. Fearlesss Concurrency
