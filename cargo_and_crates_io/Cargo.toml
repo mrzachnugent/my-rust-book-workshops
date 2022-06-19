@@ -1,0 +1,16 @@
+[package]
+name = "cargo_and_crates_io"
+version = "0.1.0"
+edition = "2021"
+description = "A crate.io mock package"
+license = "MIT OR Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[profile.dev]
+opt-level = 0 #default setting => minimize performance, increase compilation time
+
+[profile.release]
+opt-level = 3 #default setting => maximize performance, decrease compilation time
+
+[dependencies]
