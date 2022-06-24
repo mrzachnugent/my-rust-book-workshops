@@ -16,7 +16,7 @@ There are a total of 20 Chapters.
 12. An I/O Project: Building a Command Line Program ✅
 13. Functional Language Features: Iterators and Closures ✅
 14. More about Cargo and Crates.io ✅
-15. Smart Pointers
+15. Smart Pointers ✅
 16. Fearlesss Concurrency
 17. Object Oriented Programming Features of Rust
 18. Patterns and Matching

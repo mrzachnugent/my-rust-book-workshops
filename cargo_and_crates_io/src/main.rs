@@ -7,5 +7,5 @@ fn main() {
     println!("I can also provide extra examples here I think.");
     let red = PrimaryColor::Red;
     let yellow = PrimaryColor::Yellow;
-    mix(red, yellow)
+    let _mix = mix(red, yellow);
 }
